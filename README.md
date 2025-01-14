@@ -1,5 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -68,13 +66,6 @@
 
     <main>
         <section>
-            <h2>About Our Club</h2>
-            <p>
-                Just Padel is a state-of-the-art padel club located in Miami, offering an exceptional experience for players of all levels. Whether you're a beginner looking to learn the basics or a seasoned player seeking high-energy matches, our club provides the perfect environment to enjoy this thrilling sport.
-            </p>
-        </section>
-
-        <section>
             <h2>Cost of Reservation</h2>
             <p>
                 Reserve a court for just $100 for one hour and a half. Enjoy the best facilities and a vibrant padel community.
@@ -88,6 +79,13 @@
                 <img src="https://via.placeholder.com/300" alt="People playing padel 2">
                 <img src="https://via.placeholder.com/300" alt="People playing padel 3">
             </div>
+        </section>
+
+        <section>
+            <h2>About Our Club</h2>
+            <p>
+                Just Padel is a state-of-the-art padel club located in Miami, offering an exceptional experience for players of all levels. Whether you're a beginner looking to learn the basics or a seasoned player seeking high-energy matches, our club provides the perfect environment to enjoy this thrilling sport.
+            </p>
         </section>
     </main>
 
