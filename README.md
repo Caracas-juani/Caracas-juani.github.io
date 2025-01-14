@@ -3,6 +3,7 @@
     <title>Just Padel</title>
   </head>
   <body>
-    <h1>Welcome to Just Padel Webpage</h1>
+    <h1>Just Padel</h1>
+    <p>Welcome to Just Padel Webpage located in Hialeah</p>
   </body>
 </html>
